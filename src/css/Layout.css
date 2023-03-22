@@ -1,0 +1,27 @@
+*{font-family: 'Noto Sans KR', sans-serif;margin:0;padding:0}
+ul li{list-style:none;}
+.main-prd h6{margin-top:20px;}
+.main_title{
+    text-align:center;
+    padding-bottom:30px;
+}
+.main_title ul li{width:100%;}
+.main_title ul li:nth-child(1)
+{
+    font-size:25px;
+    font-weight:600;
+}
+.main_title ul li:nth-child(2)
+{
+    font-size:15px;margin-top:5px;
+}
+
+@media (max-width: 800px) {
+   .container{width:90%!important;margin:0 auto!important}
+  }
+  
+@media (max-width: 600px) {
+    .menu_nav{display:none!important;}
+    #prd_wrapper{width:95%!important}
+    .plus_minus_button{margin-top:20px;float:left!important}
+  }

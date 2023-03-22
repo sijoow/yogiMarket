@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "YOGIBO MAX ORIGINAL",
+        "subtitle": "요기보 맥스 오리지널",
+        "price": 389000,
+        "img": "https://yogibo.cafe24.com/web/product/big/202208/c1e97c2dca1c4e9cbbc3347a02d5a874.jpg"
+      },
+      {
+        "id": 2,
+        "name": "YOGIBO MAX PRO",
+        "subtitle": "요기보 맥스 프로",
+        "price": 539000,
+        "img": "https://yogibo.cafe24.com/web/product/big/202208/206eb5d2378e972caf077d8e88b10a24.jpg"
+      },
+      {
+        "id": 3,
+        "name": "YOGIBO PYRAMID ORIGINAL",
+        "subtitle": "요기보 피라미드 오리지널",
+        "price": 169000,
+        "img": "https://yogibo.cafe24.com/web/product/big/202302/0a2a7bbe4e3d41b2547bc66f5668ba33.jpg"
+      },
+      {
+        "id": 4,
+        "name": "YOGIBO SUPPORT ORIGINAL",
+        "subtitle": "요기보 서포트 오리지널",
+        "price": 179000,
+        "img": "https://yogibo.cafe24.com/web/product/big/202208/79c5db87b99b9976b5d3962183587914.jpg"
+      }
+    ]
+  }
+  
